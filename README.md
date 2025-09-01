@@ -39,13 +39,8 @@ data like text but limited by vanishing gradients and short memory span.
  2. Transformers:
 Introduced in 'Attention is All You Need' (2017). They use self-attention to capture
 dependencies across sequences in parallel, enabling scaling to billions of parameters.
-Examples include GPT, BERT, and LLaMA.<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/491623ca-c161-4531-88f0-c8783465e38d" />
-
-                             
-
- 4. Diffusion Models: Used for generating
-high-quality images (e.g., DALL·E, Stable Diffusion). They work by iteratively denoising
-random noise into structured data.
+Examples include GPT, BERT, and LLaMA.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/22784c01-247b-44a9-bd15-065eeb9badb3" />
 
 ### Applications of Generative AI
 1. Text Generation and Language Understanding: Chatbots, virtual assistants, automated
