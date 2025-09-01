@@ -39,8 +39,9 @@ data like text but limited by vanishing gradients and short memory span.
  2. Transformers:
 Introduced in 'Attention is All You Need' (2017). They use self-attention to capture
 dependencies across sequences in parallel, enabling scaling to billions of parameters.
-Examples include GPT, BERT, and LLaMA.<img width="850" height="765" alt="The-Transformer-model-architecture" src="https://github.com/user-attachments/assets/ef47a303-fb1d-4d33-8535-89ae8ab53e28" />
-                                                                              Transformer Architecture
+Examples include GPT, BERT, and LLaMA.<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/491623ca-c161-4531-88f0-c8783465e38d" />
+
+                             
 
  4. Diffusion Models: Used for generating
 high-quality images (e.g., DALL·E, Stable Diffusion). They work by iteratively denoising
@@ -59,8 +60,6 @@ learning content, tutoring systems. 6. Business & Productivity: Report generatio
 summarization, and customer service automation.
 
 ### Impact of Scaling in Large Language Models (LLMs)
-![Chinchilla+scaling](https://github.com/user-attachments/assets/c2f2dc44-f76c-4615-82f1-409ea9750287)
-                          Scaling Laws Curve
 1. Scaling Laws: Performance improves predictably as models are scaled in three
 dimensions—model size (parameters), training data volume, compute power.
  2. Emergent Abilities: LLMs demonstrate new capabilities (reasoning, coding, translation) when scaled
